@@ -1,0 +1,1 @@
+.tbody.tr[] | {id: ."+@id", raw_switch: .td[0], raw_description: .td[1], source_url: .td[1].a."+@href"}
