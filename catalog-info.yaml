@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: chrome-switches.github.io
-  description: "The content \"chrome-switches.github.io\" likely refers to a website or repository detailing Chrome browser command-line switches."
+  description: "The content `# chrome-switches.github.io` is a title, likely indicating a website or repository related to Chrome switches."
   annotations:
     github.com/project-slug: sparksis/chrome-switches.github.io
 spec:
